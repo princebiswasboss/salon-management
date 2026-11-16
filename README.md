@@ -224,3 +224,5 @@ Salon-website-node/
 ├── package.json
 └── server.js                   # Node 22 Express server entrypoint
 ```
+#   s a l o n - m a n a g e m e n t  
+ 
