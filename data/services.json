@@ -1,0 +1,74 @@
+[
+  {
+    "id": "srv-1",
+    "name": "Signature Haircut & Style",
+    "category": "Hair",
+    "durationMinutes": 45,
+    "price": 45,
+    "description": "Consultation, precision haircut, relaxing scalp massage, blow dry, and custom styling.",
+    "active": true
+  },
+  {
+    "id": "srv-2",
+    "name": "Balayage & Color Gloss",
+    "category": "Hair",
+    "durationMinutes": 120,
+    "price": 160,
+    "description": "Hand-painted sun-kissed highlights finished with a nourishing botanical gloss.",
+    "active": true
+  },
+  {
+    "id": "srv-3",
+    "name": "Keratin Smooth Treatment",
+    "category": "Hair",
+    "durationMinutes": 90,
+    "price": 180,
+    "description": "Deep conditioning and anti-frizz smoothing treatment for silky, manageable hair.",
+    "active": true
+  },
+  {
+    "id": "srv-4",
+    "name": "Hydra-Glow Facial",
+    "category": "Facial & Skin",
+    "durationMinutes": 60,
+    "price": 85,
+    "description": "Deep ultrasonic pore cleansing, lactic acid exfoliation, antioxidant serum infusion, and LED therapy.",
+    "active": true
+  },
+  {
+    "id": "srv-5",
+    "name": "Anti-Aging Collagen Facial",
+    "category": "Facial & Skin",
+    "durationMinutes": 75,
+    "price": 110,
+    "description": "Firming peptide mask, micro-current lifting, and intensive lymphatic massage.",
+    "active": true
+  },
+  {
+    "id": "srv-6",
+    "name": "Gel Deluxe Manicure & Pedicure",
+    "category": "Nails & Spa",
+    "durationMinutes": 60,
+    "price": 70,
+    "description": "Nail shaping, cuticle care, exfoliating organic scrub, hot towel massage, and long-lasting gel polish.",
+    "active": true
+  },
+  {
+    "id": "srv-7",
+    "name": "Aromatherapy Deep Tissue Massage",
+    "category": "Nails & Spa",
+    "durationMinutes": 60,
+    "price": 95,
+    "description": "Therapeutic full body massage utilizing essential botanical oils to relieve tension.",
+    "active": true
+  },
+  {
+    "id": "srv-8",
+    "name": "Gentleman's Beard Sculpt & Hot Towel Shave",
+    "category": "Grooming",
+    "durationMinutes": 35,
+    "price": 38,
+    "description": "Straight razor shave, beard oil nourishment, hot steam towel, and precision edge line.",
+    "active": true
+  }
+]

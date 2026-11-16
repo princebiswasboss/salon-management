@@ -1,0 +1,63 @@
+[
+  {
+    "id": "cus-64c6d0aa-ebb2-4fc3-b408-153d4767ebd3",
+    "name": "Walk-In Guest",
+    "email": "",
+    "phone": "+1 (555) 123-4567",
+    "notes": "Created via walk-in check-in.",
+    "totalVisits": 1,
+    "totalSpend": 45,
+    "createdAt": "2026-11-16T19:32:03.085Z",
+    "updatedAt": "2026-11-16T19:41:32.543Z"
+  },
+  {
+    "id": "cus-3191ea92-a54b-4d63-a71d-4dc5c90a919c",
+    "name": "Test Client",
+    "email": "test.client@example.com",
+    "phone": "+1 (555) 999-8877",
+    "notes": "Created via appointment booking.",
+    "totalVisits": 0,
+    "totalSpend": 0,
+    "createdAt": "2026-11-16T19:32:03.073Z"
+  },
+  {
+    "id": "cst-1",
+    "name": "Clara Hawthorne",
+    "email": "clara.h@example.com",
+    "phone": "+1 (555) 891-2345",
+    "notes": "Prefers sulfate-free organic shampoo. Scalp sensitivity.",
+    "totalVisits": 6,
+    "totalSpend": 540,
+    "createdAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "id": "cst-2",
+    "name": "Julian Rivera",
+    "email": "julian.r@example.com",
+    "phone": "+1 (555) 912-3456",
+    "notes": "Likes medium fade on sides, textured scissor cut on top.",
+    "totalVisits": 4,
+    "totalSpend": 180,
+    "createdAt": "2026-09-02T11:30:00.000Z"
+  },
+  {
+    "id": "cst-3",
+    "name": "Amara Patel",
+    "email": "amara.p@example.com",
+    "phone": "+1 (555) 432-1987",
+    "notes": "Regular Hydra-Glow facial every 4 weeks.",
+    "totalVisits": 8,
+    "totalSpend": 780,
+    "createdAt": "2026-07-10T14:20:00.000Z"
+  },
+  {
+    "id": "cst-4",
+    "name": "Ethan Wright",
+    "email": "ethan.w@example.com",
+    "phone": "+1 (555) 678-9012",
+    "notes": "Walk-in converted client. Prefers evening appointments.",
+    "totalVisits": 2,
+    "totalSpend": 90,
+    "createdAt": "2026-10-05T16:00:00.000Z"
+  }
+]

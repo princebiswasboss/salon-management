@@ -1,0 +1,25 @@
+{
+  "name": "salon-website-node",
+  "version": "1.0.0",
+  "description": "Salon Booking & Management System with Node 22 and JSON file-based database store",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test/api.test.js"
+  },
+  "keywords": [
+    "salon",
+    "booking",
+    "management",
+    "node22",
+    "json-database"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}

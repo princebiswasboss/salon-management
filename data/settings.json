@@ -1,0 +1,22 @@
+{
+  "salonName": "Luxe Haven Salon & Spa",
+  "tagline": "Elegance, Wellness & Signature Styling",
+  "phone": "+1 (555) 777-LUXE",
+  "email": "concierge@luxehaven.com",
+  "address": "450 Promenade Blvd, Suite 200, Beverly Hills, CA 90210",
+  "currency": "$",
+  "currencyCode": "USD",
+  "slotIntervalMinutes": 15,
+  "openingTime": "09:00",
+  "closingTime": "20:00",
+  "businessDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "theme": "dark"
+}
